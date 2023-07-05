@@ -13,8 +13,8 @@ int cantidadRuedas = 4;
 string marca = "Corsa Classic";
 bool ITVvigente = true;
 //Mesa:
-double pesoMesa = 5.5;
-double largoMesa = 2.5;
+double kgMesa = 5.5;
+double mtsMesa = 2.5;
 string materialMesa = "Madera";
 string colorMesa = "Blanca";
 
